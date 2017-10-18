@@ -12,9 +12,10 @@ html {
 img {
   display: inline-block;
   text-align: center;
+  max-width: 100%;
 }
 
-div{
+div {
   display: inline-block;
   text-align: center;
 }
@@ -32,5 +33,4 @@ p {
 
 a {
   color: #666;
-  text-align: left;
 }
