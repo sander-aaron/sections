@@ -39,16 +39,27 @@ h2 {
 }
 
 p {
+  font-size: 1em;
   width: 25em;
   margin: 0 auto;
   text-align: left;
+  padding-bottom: 1em;
 }
 
-a,
-a:link {
+button,
+button:link {
   color: #333;
+  border-color: #333;
+  border-width: medium;
+  font-size: 1.125em;
+  background-color: #eee9de;
+  border-radius: 7px;
+  padding: .75em;
 }
 
-a:hover {
-  color: #666;
+button:hover {
+  background-color: #666;
+  color: #fff;
+  border-color: #fff;
+  border-width: medium;
 }
