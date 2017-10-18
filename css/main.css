@@ -16,7 +16,6 @@ body {
 }
 
 img {
-  display: inline-block;
   width: 100%;
   text-align: left;
   max-width: 422px;
