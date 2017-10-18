@@ -12,7 +12,11 @@ html {
 body {
   text-align: center;
   margin: 0;
+}
 
+section {
+  vertical-align: middle;
+  display: inline-block;
 }
 
 img {
@@ -20,10 +24,6 @@ img {
   width: 100%;
   text-align: left;
   max-width: 422px;
-}
-
-section {
-  vertical-align: middle;
 }
 
 div {
