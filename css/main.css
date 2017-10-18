@@ -41,6 +41,11 @@ p {
   text-align: left;
 }
 
-.btn {
+a,
+a:link {
+  color: #333;
+}
+
+a:hover {
   color: #666;
 }
