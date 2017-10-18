@@ -11,10 +11,13 @@ html {
 
 body {
   text-align: center;
+  margin: 1.5rem;
+
 }
 
 img {
   display: inline-block;
+  width: 100%;
   text-align: left;
   max-width: 100%;
 }
