@@ -15,6 +15,10 @@ img {
   max-width: 100%;
 }
 
+section {
+  vertical-align: middle;
+}
+
 div {
   display: inline-block;
   text-align: center;
@@ -31,6 +35,6 @@ p {
   text-align: left;
 }
 
-a {
+button {
   color: #666;
 }
