@@ -1,7 +1,19 @@
 html {
   box-sizing: border-box;
+  background-color: #eee9de;
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+img {
+  max-width: inherit;
+  margin: 1.5rem;
+}
+
+p {
+  width: 25em;
 }
