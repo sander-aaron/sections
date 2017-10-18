@@ -17,6 +17,7 @@ body {
 section {
   vertical-align: middle;
   display: inline-block;
+  max-width: 25em;
 }
 
 img {
@@ -24,6 +25,7 @@ img {
   width: 100%;
   text-align: left;
   max-width: 422px;
+  padding: 2em;
 }
 
 div {
@@ -33,17 +35,20 @@ div {
 
 h2 {
   text-align: left;
+  margin: 1.5rem;
 }
 
 p {
   width: 25em;
   margin: 0 auto;
   text-align: left;
+  margin: 1.5rem;
 }
 
 a,
 a:link {
   color: #333;
+  margin: 1.5rem;
 }
 
 a:hover {
