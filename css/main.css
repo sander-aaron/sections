@@ -38,6 +38,8 @@ div {
 
 h2 {
   text-align: left;
+  padding-top: .75em;
+  padding-bottom: .75em;
 }
 
 p {
