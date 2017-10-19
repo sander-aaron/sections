@@ -1,8 +1,5 @@
 html {
   box-sizing: border-box;
-  background-color: #eee9de;
-  line-height: 1.5;
-  font-family: Lato, sans-serif;
 }
 
 *, *::before, *::after {
@@ -12,6 +9,9 @@ html {
 body {
   text-align: center;
   margin: 0;
+  background-color: #eee9de;
+  line-height: 1.5;
+  font-family: Lato, sans-serif;
 }
 
 section {
