@@ -28,7 +28,7 @@ section {
 }
 
 img {
-  display: inline-block;
+  display: block;
   width: 100%;
   text-align: left;
   max-width: 100%;
