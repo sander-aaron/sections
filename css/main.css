@@ -50,7 +50,7 @@ p {
 }
 
 button,
-button:link {
+.btn:link {
   color: #333;
   border-color: #333;
   border-width: medium;
