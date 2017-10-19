@@ -19,6 +19,7 @@ section {
   display: inline-block;
   max-width: 25em;
   margin: 1.5rem;
+  width: 100%;
 }
 
 img {
@@ -31,6 +32,7 @@ img {
 div {
   display: inline-block;
   text-align: left;
+  width: 100%;
   max-width: 422px;
 }
 
@@ -40,7 +42,8 @@ h2 {
 
 p {
   font-size: 1em;
-  width: 25em;
+  max-width: 25em;
+  width: 100%;
   margin: 0 auto;
   text-align: left;
   padding-bottom: 1em;
