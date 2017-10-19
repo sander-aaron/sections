@@ -19,6 +19,7 @@ section {
   display: inline-block;
   max-width: 25em;
   width: 100%;
+  padding: 2em:
 }
 
 .text {
@@ -34,7 +35,7 @@ img {
   width: 100%;
   text-align: left;
   max-width: 100%;
-  padding-top: 1em;
+  padding: 1em;
 }
 
 div {
