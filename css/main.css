@@ -35,7 +35,7 @@ img {
   display: block;
   width: 100%;
   text-align: left;
-  max-width: 99%;
+  max-width: 25em;
   padding-top: .5em;
   padding-left: .5em;
 }
@@ -44,7 +44,7 @@ div {
   display: inline-block;
   text-align: left;
   width: 100%;
-  max-width: 400px;
+  max-width: 100%
 }
 
 h2 {
@@ -57,10 +57,11 @@ h2 {
 
 p {
   font-size: 1em;
+  width: 90%;
   max-width: 25em;
-  width: 100%;
   text-align: left;
   padding-bottom: 1em;
+  padding-right: .1em;
 }
 
 .btn,
