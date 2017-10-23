@@ -37,6 +37,7 @@ img {
   text-align: left;
   max-width: 99%;
   padding-top: 1em;
+  padding bottom: .4em;
 }
 
 div {
@@ -70,7 +71,7 @@ p {
   font-size: 1.125em;
   background-color: #eee9de;
   border-radius: 7px;
-  padding: .5em;
+  padding: .75em;
 }
 
 .btn:hover {
