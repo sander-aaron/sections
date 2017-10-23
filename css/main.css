@@ -49,13 +49,14 @@ div {
 h2 {
   text-align: left;
   padding-bottom: .4em;
+  font-size: 1.5em;
+  margin: 0 auto;
 }
 
 p {
   font-size: 1em;
   max-width: 25em;
   width: 100%;
-  margin: 0 auto;
   text-align: left;
   padding-bottom: 1em;
 }
