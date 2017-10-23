@@ -49,8 +49,8 @@ div {
 
 h2 {
   text-align: left;
-  padding-top: .5em;
-  padding-bottom: .5em;
+  padding-top: .4em;
+  padding-bottom: .4em;
   font-size: 1.5em;
   margin: 0 auto;
 }
@@ -70,8 +70,8 @@ p {
   border-width: medium;
   font-size: 1.125em;
   background-color: #eee9de;
-  border-radius: 7px;
-  padding: .6em;
+  border-radius: 6px;
+  padding: .75em;
 }
 
 .btn:hover {
