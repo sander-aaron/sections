@@ -38,6 +38,7 @@ img {
   max-width: 25em;
   padding-top: .5em;
   padding-left: .5em;
+  padding-right: .5em;
 }
 
 div {
@@ -60,7 +61,7 @@ p {
   width: 90%;
   max-width: 25em;
   text-align: left;
-  padding-bottom: 1em;
+  padding-bottom: .75em;
   padding-right: .1em;
 }
 
