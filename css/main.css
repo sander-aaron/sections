@@ -23,7 +23,7 @@ section {
 }
 
 .text {
-  margin-left: 1.5rem;
+  margin-left: 1.125rem;
 }
 
 .image {
@@ -63,6 +63,7 @@ p {
   text-align: left;
   padding-bottom: .65em;
   padding-right: .1em;
+  margin: 0;
 }
 
 .btn,
