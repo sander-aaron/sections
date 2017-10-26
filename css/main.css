@@ -20,7 +20,6 @@ section {
   display: inline-block;
   max-width: 25em;
   width: 100%;
-  padding-top: .1em;
 }
 
 .text {
@@ -63,7 +62,7 @@ p {
   width: 90%;
   max-width: 25em;
   text-align: left;
-  padding-bottom: .55em;
+  padding-bottom: .5em;
   padding-right: .1em;
 }
 
