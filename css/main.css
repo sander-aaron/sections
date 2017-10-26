@@ -28,7 +28,7 @@ section {
 
 .image {
   display: inline-block;
-  padding: .5em;
+  padding: .6em;
 }
 
 img {
@@ -73,7 +73,7 @@ p {
   border-width: medium;
   font-size: 1.125em;
   background-color: #eee9de;
-  border-radius: 7px;
+  border-radius: 6px;
   padding: .65em;
 }
 
