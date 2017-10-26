@@ -28,7 +28,9 @@ section {
 
 .image {
   display: inline-block;
-  padding: .5em;
+  padding-left: .5em;
+  padding-right: .5em;
+  padding-bottom: .5em;
 }
 
 img {
