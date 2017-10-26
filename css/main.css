@@ -28,6 +28,7 @@ section {
 
 .image {
   display: inline-block;
+  padding: .5em;
 }
 
 img {
@@ -35,6 +36,7 @@ img {
   width: 100%;
   text-align: left;
   max-width: 25em;
+  padding-top: .55em;
   padding-left: .5em;
   padding-right: .5em;
 }
