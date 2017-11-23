@@ -29,6 +29,7 @@ section {
 .image {
   display: inline-block;
   padding: .5em;
+  padding-top: 0em;
 }
 
 img {
