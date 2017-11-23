@@ -31,6 +31,10 @@ section {
   padding: .5em;
 }
 
+.thing {
+  padding-bottom: .5em;
+}
+
 img {
   display: block;
   width: 100%;
