@@ -62,7 +62,7 @@ p {
   width: 90%;
   max-width: 25em;
   text-align: left;
-  padding-top: 0em;
+  padding-top: 0;
   padding-bottom: .2em;
   padding-right: .1em;
 }
